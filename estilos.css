@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(65, 175, 226);
+    text-align: center;
+    margin: 0;
+    font-family: 'Bubblegum Sans', cursive;
+    font-size: 30px;
+}
+
+h1 {
+    color: black;
+    border: 10px solid rgb(0, 4, 255);
+    text-align: center;
+}
+    p {
+    text-align: center;
+    }
